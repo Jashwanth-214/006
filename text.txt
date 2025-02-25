@@ -1,0 +1,6 @@
+ my name is gagan
+ i am in L7 lab
+ i am playing with git
+ i know how to push code or file to git
+ amity university
+
